@@ -10,3 +10,8 @@ History.md
 Makefile
 renovate.json
 test
+src
+tsconfig.json
+tsconfig.eslint.json
+.github
+node_modules

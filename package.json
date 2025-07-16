@@ -8,7 +8,10 @@
     "access": "public"
   },
   "files": [
-    "dist"
+    "dist",
+    "LICENSE.md",
+    "README.md",
+    "CHANGELOG.md"
   ],
   "engines": {
     "node": ">=14.0.0"
@@ -35,7 +38,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/hokify/agenda"
+    "url": "git://github.com/Techshift/agenda"
   },
   "keywords": [
     "job",
